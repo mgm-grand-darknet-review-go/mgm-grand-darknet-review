@@ -51,4 +51,6 @@ This guide is presented solely for educational, and informational purposes. The 
 
 
 
-Update:  Wednesday 13 August 2025 url is back up and accessible
+
+
+Update:  19.08.2025
