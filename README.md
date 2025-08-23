@@ -53,4 +53,6 @@ This guide is presented solely for educational, and informational purposes. The 
 
 
 
-Update:  19.08.2025
+
+
+Update:  Saturday 23 August 2025 Fixed broken anchor links in wiki pages
