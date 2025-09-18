@@ -59,4 +59,6 @@ This guide is presented solely for educational, and informational purposes. The 
 
 
 
-Update:  09/12/2025 link is live and working
+
+
+Update:  18.09.2025
